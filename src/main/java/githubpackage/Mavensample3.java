@@ -2,9 +2,9 @@ package githubpackage;
 
 import org.testng.annotations.Test;
 
-public class Mavensample
+public class Mavensample3
 {
-	@Test(groups = "smoke")
+	@Test(groups = "regression")
 public void demo()
 {
 	System.out.println("sample git hub");
